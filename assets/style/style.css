@@ -8,7 +8,7 @@ body {
     background-image: url(../image/wallpaper.jpg);
     background-position: center;
     background-size: cover;
-    height: 500px;
+    height: 100vh;
     
     
 }
